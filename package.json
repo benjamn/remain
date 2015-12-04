@@ -1,0 +1,24 @@
+{
+  "name": "remain",
+  "author": "Ben Newman <ben@benjamn.com>",
+  "version": "0.0.1",
+  "description": "Liberate the package.json \"main\" property from its inflexible standard interpretation.",
+  "main": "index.js",
+  "keywords": [
+    "node",
+    "npm",
+    "package.json",
+    "main",
+    "entrypoint",
+    "index.js"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamn/remain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/benjamn/remain/issues"
+  },
+  "homepage": "https://github.com/benjamn/remain#readme"
+}
